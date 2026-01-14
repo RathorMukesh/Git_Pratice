@@ -1,2 +1,0 @@
-hello Git 2
-this is the file2
